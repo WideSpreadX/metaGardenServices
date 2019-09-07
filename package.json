@@ -1,0 +1,32 @@
+{
+  "name": "metagardenservices",
+  "version": "1.0.0",
+  "description": "Landscaping Hardscaping Home Improvement Farmington Area",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WideSpreadX/metaGardenServices.git"
+  },
+  "keywords": [
+    "landscaping",
+    "hardscaping",
+    "hardscapes",
+    "home",
+    "improvement",
+    "meta",
+    "garden",
+    "services",
+    "horticulture",
+    "clean",
+    "up"
+  ],
+  "author": "Jonny O",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WideSpreadX/metaGardenServices/issues"
+  },
+  "homepage": "https://github.com/WideSpreadX/metaGardenServices#readme"
+}
